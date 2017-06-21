@@ -38,15 +38,8 @@ ol {
     line-height: 180%;
 }
 
-ul,
-ol {
-}
-
 a {
     color: #5e5e5e;
-}
-
-a:hover {
 }
 
 #wrapper {
@@ -71,17 +64,12 @@ a:hover {
 }
 
 /* Logo */
-
 #logo {
     float: left;
     width: 300px;
     margin: 0;
     padding: 0;
     color: #ffffff;
-}
-
-#logo h1,
-#logo p {
 }
 
 #logo h1 {
@@ -204,11 +192,7 @@ a:hover {
     color: #ffffff;
 }
 
-#menu .current_page_item a {
-}
-
 /* Page */
-
 #page {
     width: 1000px;
     margin: 0 auto;
@@ -216,7 +200,6 @@ a:hover {
 }
 
 /* Content */
-
 #content {
     float: right;
     width: 660px;
@@ -255,9 +238,6 @@ a:hover {
 
 .post .meta .posted {
     float: right;
-}
-
-.post .meta a {
 }
 
 .post .entry {
@@ -360,10 +340,6 @@ a:hover {
 }
 
 /* Calendar */
-
-#calendar {
-}
-
 #calendar_wrap {
     padding: 20px;
 }
@@ -381,7 +357,6 @@ a:hover {
 }
 
 /* Three Column Footer Content */
-
 #footer-content {
     overflow: hidden;
     width: 1000px;
@@ -424,9 +399,6 @@ a:hover {
     width: 300px;
 }
 
-#footer-content a {
-}
-
 #column1 {
     float: left;
     width: 290px;
@@ -444,7 +416,6 @@ a:hover {
 }
 
 /* Footer */
-
 #footer {
     height: 140px;
     margin: 0 auto;
@@ -508,10 +479,6 @@ a:hover {
     height: 340px;
     background: url(../img/img03.png) no-repeat left bottom;
 }
-
-#banner .content {
-}
-
 
 .list-style1 {
     margin: 0;
