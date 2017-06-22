@@ -271,6 +271,19 @@ a {
     text-decoration: none;
 }
 
+@media (min-width: 950px) {
+    #content {
+        float: right;
+        width: calc(100% / 3 * 2);
+        margin-left: 1.5em;
+    }
+
+    #sidebar {
+        float: left;
+        width: calc(100% / 3 - 1.5em);
+    }
+}
+
 /* Sidebar */
 #sidebar {
     margin: 0;
@@ -332,6 +345,7 @@ a {
 
 /* Footer */
 #footer {
+    clear: both;
     height: 140px;
     margin: 0 auto;
     padding: 50px 0 15px 0;
