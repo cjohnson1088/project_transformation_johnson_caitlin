@@ -150,7 +150,7 @@ a {
 }
 
 #menu li {
-    padding: 0.9em 1em;
+    padding: 5px;
     text-align: center;
 }
 
@@ -169,6 +169,7 @@ a {
 #menu a:hover,
 #menu .current_page_item a {
     background: url(../img/img01.jpg) repeat;
+    padding: 0 10px;
     text-decoration: none;
     color: #ffffff;
 }
