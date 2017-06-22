@@ -272,14 +272,14 @@ a {
     padding-bottom: 30px;
 }
 
-#sidebar li li {
+#sidebar section li {
     line-height: 40px;
     border-bottom: 1px solid #e7ebed;
     margin: 0;
     border-left: none;
 }
 
-#sidebar li li span {
+#sidebar section li span {
     display: block;
     margin-top: -20px;
     padding: 0;
@@ -287,7 +287,7 @@ a {
     font-style: italic;
 }
 
-#sidebar li li a {
+#sidebar section li a {
     padding: 0 0 0 20px;
     background: url(../img/img04.jpg) no-repeat left 50%;
 }
