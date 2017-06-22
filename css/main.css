@@ -184,12 +184,6 @@ a {
 
 @media all and (min-width: 850px) {
     nav li {
-        width: calc(100% / 4);
-    }
-}
-
-@media all and (min-width: 1100px) {
-    nav li {
         width: calc(100% / 6);
     }
 }
