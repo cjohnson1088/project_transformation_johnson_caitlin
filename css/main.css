@@ -176,15 +176,13 @@ a {
 
 /* Page */
 #page {
-    width: 1000px;
     margin: 0 auto;
     padding: 30px 0;
 }
 
 /* Content */
 #content {
-    width: 660px;
-    padding: 0;
+    padding: 3%;
 }
 
 .post {
