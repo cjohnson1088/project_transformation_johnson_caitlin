@@ -8,8 +8,13 @@ html {
     box-sizing: inherit;
 }
 
+.site-container {
+    max-width: 1200px;
+}
+
 body {
     margin: 0;
+    background: url(../img/img01.jpg) repeat;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 14px;
     color: #5b5b5b;
@@ -139,23 +144,23 @@ a {
 }
 
 /* Menu */
-#menu {
-    margin: 0 auto;
-}
-
 #menu ul {
     list-style: none;
     padding: 20px 0 0 0;
 }
 
+#menu li {
+    padding: 0.9em 1em;
+    text-align: center;
+}
+
 #menu a {
-    padding: 0 20px 0 20px;
     text-decoration: none;
     text-align: center;
     text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.2);
     text-transform: uppercase;
     font-family: 'Oswald', sans-serif;
-    font-size: 16px;
+    font-size: 1.9rem;
     font-weight: 300;
     color: #1f1f1f;
     border: none;
