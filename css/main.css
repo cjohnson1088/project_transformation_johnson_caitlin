@@ -58,7 +58,6 @@ a {
 
 #header {
     width: 1000px;
-    height: 150px;
     margin: 0 auto;
     padding: 0 0;
 }
@@ -105,19 +104,16 @@ a {
 /* Splash */
 #splash {
     width: 960px;
-    height: 300px;
     margin: 0 auto;
 }
 
 /* Search */
 #search {
     width: 280px;
-    height: 60px;
     padding: 20px 0 0 0;
 }
 
 #search form {
-    height: 41px;
     margin: 0;
     padding: 10px 0 0 20px;
 }
@@ -140,29 +136,17 @@ a {
 
 #search-submit {
     width: 50px;
-    height: 22px;
     border: none;
     background: #b9b9b9;
     color: #000000;
 }
 
 /* Menu */
-#menu {
-    width: 500px;
-    margin: 0 auto;
-}
-
 #menu ul {
-    margin: 0;
-    padding: 20px 0 0 0;
     list-style: none;
-    line-height: normal;
 }
 
 #menu a {
-    display: block;
-    line-height: 100px;
-    margin-right: 1px;
     padding: 0 20px 0 20px;
     text-decoration: none;
     text-align: center;
@@ -423,7 +407,6 @@ a {
 #banner {
     margin: 0 auto;
     width: 1000px;
-    height: 340px;
     background: url(../img/img03.png) no-repeat left bottom;
 }
 
