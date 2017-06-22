@@ -279,14 +279,6 @@ a {
     border-left: none;
 }
 
-#sidebar section li span {
-    display: block;
-    margin-top: -20px;
-    padding: 0;
-    font-size: 11px;
-    font-style: italic;
-}
-
 #sidebar section li a {
     padding: 0 0 0 20px;
     background: url(../img/img04.jpg) no-repeat left 50%;
@@ -312,6 +304,10 @@ a {
 
 #sidebar a:hover {
     text-decoration: underline;
+}
+
+#sidebar section h2 {
+    padding-top: 15px;
 }
 
 /* Footer */
