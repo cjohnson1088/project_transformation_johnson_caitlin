@@ -56,12 +56,6 @@ a {
     overflow: hidden;
 }
 
-#header {
-    width: 1000px;
-    margin: 0 auto;
-    padding: 0 0;
-}
-
 /* Logo */
 #logo {
     width: 300px;
