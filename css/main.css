@@ -413,9 +413,14 @@ a {
 }
 
 #banner {
+    width: 100%;
+    height: auto;
     margin: 0 auto;
-    width: 1000px;
     background: url(../img/img03.png) no-repeat left bottom;
+}
+
+#banner img {
+    width: 100%;
 }
 
 .list-style1 {
